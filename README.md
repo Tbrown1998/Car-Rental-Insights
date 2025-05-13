@@ -1,4 +1,4 @@
-# 💳 Analyzing Car Rental Company Performance with Power BI
+# 🚗 Analyzing Car Rental Company Performance with Power BI
 ![Placeholder  powerbi vertical](https://github.com/user-attachments/assets/5c47f46c-2af6-4c9a-a19d-8e07ed48c866)
 
 ---
