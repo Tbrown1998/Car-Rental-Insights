@@ -92,16 +92,16 @@ The goal was to build a star schema to enhance query performance and enable mean
 
 ## 📈 Key Insights from Analysis
 Based on the provided dashboard images, the following key insights and findings were identified:
-✅ **Revenue Performance: The dashboard shows a total revenue of $1.65M**  
-✅ **Rental and Booking Volume: The business has processed 1000 rentals and 96 bookings.**  
-✅ **Top Revenue Generating Car: Audi-Q7 is the car with the highest revenue.**  
-✅ **Top Customers: Stacey Young, John Reese and Catherine Nunez are the top 3 customers by revenue.**  
-✅ **Rental Status: The dashboard provides a breakdown of rental status, showing the number of vehicles that are completed, ongoing, and booked.**
-✅ **Car Availability: The dashboard visualizes the distribution of vehicle models across different brands.**
-✅ **Revenue Trend: The "Revenue and Revenue PM" chart shows the trend of revenue over the months.**
-✅ **Top Revenue by Make: Audi is the car make with the highest revenue, followed by Ford and BMW.**
-✅ **Rentals by Day Type: Most rentals occur during the weekdays.**
-✅ **Brand Performance: The "Brand Performance Overview" provides a detailed matrix of key performance metrics for each car brand, including top 7 models by revenue and rentals.**
+- ✅ **Revenue Performance: The dashboard shows a total revenue of $1.65M**
+- ✅ **Rental and Booking Volume: The business has processed 1000 rentals and 96 bookings.**
+- ✅ **Top Revenue Generating Car: Audi-Q7 is the car with the highest revenue.**
+- ✅ **Top Customers: Stacey Young, John Reese and Catherine Nunez are the top 3 customers by revenue.**
+- ✅ **Rental Status: The dashboard provides a breakdown of rental status, showing the number of vehicles that are completed, ongoing, and booked.**
+- ✅ **Car Availability: The dashboard visualizes the distribution of vehicle models across different brands.**
+- ✅ **Revenue Trend: The "Revenue and Revenue PM" chart shows the trend of revenue over the months.**
+- ✅ **Top Revenue by Make: Audi is the car make with the highest revenue, followed by Ford and BMW.**
+- ✅ **Rentals by Day Type: Most rentals occur during the weekdays.**
+- ✅ **Brand Performance: The "Brand Performance Overview" provides a detailed matrix of key performance metrics for each car brand, including top 7 models by revenue and rentals.**
 
 ---
 
