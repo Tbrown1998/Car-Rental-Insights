@@ -68,6 +68,13 @@ The goal was to build a star schema to enhance query performance and enable mean
 
 ---
 
+## 📽️ Car Rental Dashboard Walkthrough
+
+[![Car Rental Dashboard Walkthrough](https://img.youtube.com/vi/8svfVB4nPZc/0.jpg)](https://youtu.be/8svfVB4nPZc)
+
+A quick walkthrough of the Car Rental analytics dashboard showcasing Insights into my project and tooltips for deeper insights, also showing key metrics like total rentals, revenue, popular car models, and customer insights. Built using Power BI for data-driven decision-making.
+
+---
 
 ## 📊 Project Dashboard
 ### 1️⃣ Overview Page:
